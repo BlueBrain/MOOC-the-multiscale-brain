@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Week 5: Multi-scale Modelling",
+    "description": "",
+    "experience": ["all"],
+    "maturity": null,
+    "access": null,
+    "disabled": false,
+    "picture": {
+      "src": "",
+      "alt": "Collab logo "
+    },
+    "next": "mooc_form",
+    "files": [
+       {
+        "entryname": "Week 5. Cell types and modelling: practise exercises",
+        "appid": 175,
+        "contenttype": "x-ipynb+json",
+        "extension": ".ipynb",
+        "file": "https://raw.githubusercontent.com/BlueBrain/MOOC-the-multiscale-brain/master/CellTypes_modelling/CellTypes_modelling.ipynb",
+        "justcopy": false,
+        "initial": true
+      },
+      {
+        "entryname": "Week 5. Cell types and modelling: practise exercises",
+        "appid": 175,
+        "contenttype": "x-ipynb+json",
+        "extension": ".ipynb",
+        "file": "https://raw.githubusercontent.com/BlueBrain/MOOC-the-multiscale-brain/master/CellTypes_modelling/GradedExercise.ipynb",
+        "justcopy": false
+      }
+    ]
+  },
+  {
+    "title": "Week 7: Structure and Function of the whole brain",
+    "description": "",
+    "experience": ["all"],
+    "maturity": null,
+    "access": null,
+    "disabled": true,
+    "picture": {
+      "src": "",
+      "alt": "Collab logo "
+    },
+    "next": "mooc_form",
+    "files": [
+      {
+        "entryname": "Week 7: Brain Observatory: practice exercises",
+        "appid": 175,
+        "contenttype": "x-ipynb+json",
+        "extension": ".ipynb",
+        "file": "",
+        "justcopy": false,
+        "initial": true
+      },
+      {
+        "entryname": "Week 7: Brain Observatory: graded exercises",
+        "appid": 175,
+        "contenttype": "image/jpeg",
+        "extension": ".png",
+        "file": "",
+        "justcopy": true
+      }
+    
+    ]
+  }
+]
