@@ -1,1 +1,1 @@
-# The_Mutiscale-brain_MOOC
+# MOOC The Multi-scale brain
