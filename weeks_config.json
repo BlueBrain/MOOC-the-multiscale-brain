@@ -3,11 +3,9 @@
     "title": "Week 5: Multi-scale Modelling",
     "description": "",
     "experience": ["all"],
-    "maturity": null,
-    "access": null,
     "disabled": false,
     "picture": {
-      "src": "",
+      "src": "https://raw.githubusercontent.com/BlueBrain/MOOC-the-multiscale-brain/master/Extra/MultiBrain-MOOC-small.jpg",
       "alt": "Collab logo "
     },
     "next": "mooc_form",
@@ -22,7 +20,7 @@
         "initial": true
       },
       {
-        "entryname": "Week 5. Cell types and modelling: practise exercises",
+        "entryname": "Week 5. Cell types and modelling: graded exercises",
         "appid": 175,
         "contenttype": "x-ipynb+json",
         "extension": ".ipynb",
@@ -35,11 +33,9 @@
     "title": "Week 7: Structure and Function of the whole brain",
     "description": "",
     "experience": ["all"],
-    "maturity": null,
-    "access": null,
     "disabled": true,
     "picture": {
-      "src": "",
+      "src": "https://raw.githubusercontent.com/BlueBrain/MOOC-the-multiscale-brain/master/Extra/MultiBrain-MOOC-small.jpg",
       "alt": "Collab logo "
     },
     "next": "mooc_form",
