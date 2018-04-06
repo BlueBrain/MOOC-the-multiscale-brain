@@ -33,7 +33,7 @@
     "title": "Week 7: Structure and Function of the whole brain",
     "description": "",
     "experience": ["all"],
-    "disabled": true,
+    "disabled": false,
     "picture": {
       "src": "https://raw.githubusercontent.com/BlueBrain/MOOC-the-multiscale-brain/master/Extra/MultiBrain-MOOC-small.jpg",
       "alt": "Collab logo "
@@ -48,16 +48,7 @@
         "file": "",
         "justcopy": false,
         "initial": true
-      },
-      {
-        "entryname": "Week 7: Brain Observatory: graded exercises",
-        "appid": 175,
-        "contenttype": "image/jpeg",
-        "extension": ".png",
-        "file": "",
-        "justcopy": true
       }
-    
     ]
   }
 ]
